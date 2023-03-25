@@ -16,20 +16,20 @@ There are huge home services list can add into the website, customers can pick a
 
 3.Download project from github
 
-4.extract files in C:\xampp\htdocs and rename the downloaded folder as the Website.
+4.Extract files in C:\xampp\htdocs and rename the downloaded folder as the Website.
 
-5.open link localhost/phpmyadmin
+5.Open link localhost/phpmyadmin
 
-6.click on new at side navbar.
+6.Click on new at side navbar.
 
-7.give a database name as (website) hit on create button.
+7.Give a database name as (website) hit on create button.
 
-8.after creating database name click on import.
+8.After creating database name click on import.
 
-9.browse the file in directory(Website\database\website.sql)
+9.Browse the file in directory(Website\database\website.sql)
 
-10.after importing successfully.
+10.After importing successfully.
 
-11.open any browser and type http://localhost/Website.
+11.Open any browser and type http://localhost/Website.
 
-12.first register and then login.
+12.First register and then login.
