@@ -1,6 +1,6 @@
 # Home_Service_Detector
 
-Project title “Home Service Detector” is a website. In this digital time, an on-demand service has gained the popularity over the world. Due to easy convenience, people search the online services and call to the service provider at their Home or Offices.  
+Project title Home Service Detector is a website. In this digital time, an on-demand service has gained the popularity over the world. Due to easy convenience, people search the online services and call to the service provider at their Home or Offices.  
 
 This website provides the one-stop solutions for local Service Provider and Users to deal with the household services at one place. Our web portal help customers to search services that is used for Home as well as Office. Service like Plumbing , Beauty , Spa , Repairing , Cleaning, Electricians and many more services in the near by area.
 
