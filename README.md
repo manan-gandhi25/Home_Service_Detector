@@ -1,4 +1,4 @@
-# Home_Service_Detector
+# Home Service Detector
 
 Project title "Home Service Detector" is a website. In this digital time, an on-demand service has gained the popularity over the world. Due to easy convenience, people search the online services and call to the service provider at their Home or Offices.  
 
